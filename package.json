@@ -27,6 +27,7 @@
   "author": "Michelle Bu, Eric Zhang, Alex Sosnovskiy",
   "license": "MIT",
   "scripts": {
+    "start": "node server.js"
   },
   "release": {
     "branch": "master"
