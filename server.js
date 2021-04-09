@@ -3,8 +3,7 @@ const { ExpressPeerServer } = require('peer');
 
 const app = express();
 
-// app.get('/', (req, res, next) => res.send('Hello world!'));
-
+// app.get('/', (req, res, next) => res.send('Hello world!')
 // =======
 const PORT = process.env.PORT || 9000;
 
